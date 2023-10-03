@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Momcilo Culic</h1>
-<h3 align="center">Junior frontend developer from Serbia</h3>
+<h3 align="center">Junior software developer from Serbia</h3>
 
 - 📫 How to reach me **momcilo.culic1@gmail.com**
 
